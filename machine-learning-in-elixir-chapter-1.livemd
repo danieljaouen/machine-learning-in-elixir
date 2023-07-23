@@ -50,6 +50,8 @@ label_column = "species"
 ```
 
 ```elixir
+# see https://elixirforum.com/t/book-question-machine-learning-in-elixir-poor-accuracy-for-chapter-1s-example/57185/8
+
 feature_columns = ["sepal_length", "sepal_width", "petal_length", "petal_width"]
 label_column = "species"
 
